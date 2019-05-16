@@ -1,0 +1,3 @@
+FileName	SampleName
+SRR6899499.fastq.gz	SRR6899499
+SRR6900706.fastq.gz	SRR6900706
